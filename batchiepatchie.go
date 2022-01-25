@@ -6,7 +6,7 @@ import (
 	"path"
 	"strconv"
 
-	"github.com/AdRoll/batchiepatchie/config"
+	"github.com/Noeda/batchiepatchie/config"
 	"github.com/AdRoll/batchiepatchie/fetcher"
 	"github.com/AdRoll/batchiepatchie/handlers"
 	"github.com/AdRoll/batchiepatchie/jobs"
